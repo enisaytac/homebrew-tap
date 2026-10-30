@@ -1,6 +1,7 @@
 # enisaytac/homebrew-tap
 
 ```sh
+brew trust enisaytac/tap   # Homebrew 7+ asks you to trust taps outside Homebrew once
 brew install --cask enisaytac/tap/fingerkit
 ```
 
